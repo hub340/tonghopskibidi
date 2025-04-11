@@ -175,7 +175,7 @@ loadstring(game:HttpGet('https://skullhub.xyz/loader.lua'))()
     AddButton(Tab5o, {
      Name = "Xero Kaitun Hub (Get Key)",
     Callback = function()
-	 -- Max level, godhuman, cdk, sgt
+	  -- Max level, godhuman, cdk, sgt
      getgenv().Shutdown = true -- Turn on if u are farming bulk accounts
      getgenv().Configs = {
        ["Team"] = "Marines",
